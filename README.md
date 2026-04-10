@@ -1,2 +1,2 @@
-# auraFarmer
+# auraFarmer 💪🏾
 The Badge reaper
