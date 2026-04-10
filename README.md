@@ -1,2 +1,5 @@
 # auraFarmer 💪🏾
-The Badge reaper
+The Badge Reaper
+
+- Create a Branch
+- Open a Pull Request
